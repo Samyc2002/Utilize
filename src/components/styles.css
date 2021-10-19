@@ -1,0 +1,49 @@
+.profile-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2vw;
+    position: fixed;
+}
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 23vw;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    padding: 2vw;
+}
+.profile-image {
+    border-radius: 30px;
+}
+.m-0 {
+    margin: 0;
+}
+.m-1 {
+    margin: 1%;
+}
+.m-5 {
+    margin: 5%;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+.data {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 10vw;
+}
+.card {
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    padding: 2vw;
+    margin: 2vw;
+}
+.pointer {
+    cursor: pointer;
+}
